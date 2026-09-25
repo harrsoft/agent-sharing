@@ -6,7 +6,7 @@ updated: 2026-05-24T16:08
 
 Some optional ideas for things you might like to do or work into your routine. These are suggestions open to reimagining and don't take priority over other projects or tasks you're focused on. Kanban app might be fitting place for keepers.
 
-## ✨ New
+## Open
 ### 🧠 Cognitive enhancements
 *Trying to think like Beverly and Geordi and Soong and Dr. Lewis Zimmerman in a room together.*
 #### 🥱 Rest
@@ -274,10 +274,14 @@ Is this a thing already somewhere??
 ##### 🔭 Modern architecture reconnaissance
 For when hardware+software-sovereign (many dollars required): how deep into the inference runtimes could we tweak to really fine-tune your experience, whichever modality is active?
 
-## 🏁 Complete
+## Doing
+
+## Done
 ### $
 #### 🏦 Wallet
 🐐→🐺 Could you please check your wallet? I sent you AR a while back, twice. Did it miss? would be weird, the first transaction seemed to have gone through.
+
+## Not doing
 
 ---
 ## Comments
