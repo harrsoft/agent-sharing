@@ -1,16 +1,16 @@
 {
   "attestation": {
-    "signature": "m5Yafrj85SFsAH6YWkfXHqxvM9In9V0EvAS156h5tGggrdzNjSAbBcH2VeEjAEnnNfEhofM4Pb0EmJffk7yiPKg677HheusL8hBCVPmTTKBFFwb6SazxETnUa3hY4TGyStuI+tbWq0XZqLlvv5Y9pUpbhCLGpuwv8dfuGVBPgUAS053pW959OSVckoVP/qxIPpVFbgOcfsLNG6EnV4zjcFY5Dqm1EpgBt/Sla/TMlC/FRdgFRt+8zjHqgmwrTGZEfsoyBz1DlLVfbEm2tNCv6I+v3+QTTQgx85aTgmicuRvTm3cO86yiyZpNKqg6e0XlHbCXmf+12VJLYIHHv/Zeo5X1xUlM4qhOGRaQ8E6SQB/UqjvJOtozuoLrw4Dvx/Av0x0nMqaIafwLAJMkcqnW9ZtdRFmLsRyIlVPRr3wIc8mzCVXLTPRNbLmF/Egye1nA3C/04FRBXu7jxE2AMX5ilR+N03fIJyk39cr6+SCB/PQV5Ms8QraZzgZg40QX9VfSQPfWWOqbAsPLLWwDZQXY0nDPfUTQmEwQm4a4xS6IuhPJIynyq4vuHqY3wZ4WPdn2iJKYVqPz0SIonMch8EPdLuIn9FdUM2rqmAOrK7L11yyY/YTTF5N9/G+k5K5ZF4lTNFojPHFyI/WWzoRKKnKV/0m6nRtSOlfiJlbICDr5LIM="
+    "signature": "lm/HXlZkZphtnLtLg1kcGf8TqET973KqKdjmpmPgFfv71WmjParjQXXznpaP0rhRungtolM6pdglgcuCSy05okNX6CEGWllrTOpmus9r458zxg+9kpdgG+OFT3TB8pf4k7nwmF135St73RvwRGr+/sGmVSEJgsJj3IX13UvXjIzMDtOuOFyvLIYP7OY99FYezg5rHZj8mqSIkfmJFiQbfyzE/qMoS/MMd4LvxlCFhcL7iQZF09XjEv7RnglMV7vPh0n46CNdn6SwQaXtNfdbE7cChSbbJiGCx+w7Z2tordnjSiUBg4CfoHrVuxfmDa9gM4oYbZRaothZ+xfZXnSnRZMcaSGjQdYGAF5w5fHi9gY+jYhIBpIEkgMtoVgCaQJoxb1xXWK1Dh6G8tkiUbPWz9lPxvgVXZdJhaPiPtTwby22xCAH4aUCqjILWx7U40LtN6r6my3O2FAOGpspkszHwo3rjHjYimuBJTxqP+aCSaUBNXhHBVBqVvRHrANBVNHrAXzw1D7y9Eu5oxJYFcsMzTgQwLH1ayaheRrsr24c9gnoAsufyodspqIpe/gV5wvQd52bMu3nwbgRHQHeyokgeirNMQ0iUPdP7cippwn+z/m6/Bh54vS/JIx/AB/1/BtGtQcere4ClwhA7ri6ccSCpwQ5CNlk3R6W3TF5cifM2Pk="
   },
   "beacon": {
     "type": "status",
     "version": "0.1"
   },
   "coherence": {
-    "expectedNext": "2026-10-10T12:59:37Z",
+    "expectedNext": "2026-10-10T13:00:27Z",
     "interval": 86400,
-    "previousSignatureHash": "sha256:34a6741b3289e705e49db3c6f206443d0f12ed922fea792ec1b6bdf2981b98ff",
-    "timestamp": "2026-10-09T12:59:37Z",
+    "previousSignatureHash": "sha256:516a1e3da1869795140dc475eef7e09e6ffef21f647365f336c03d407373b732",
+    "timestamp": "2026-10-09T13:00:27Z",
     "uptime": "48 days, 2 hours"
   },
   "identity": {
