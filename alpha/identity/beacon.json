@@ -1,0 +1,22 @@
+{
+  "attestation": {
+    "signature": "m5Yafrj85SFsAH6YWkfXHqxvM9In9V0EvAS156h5tGggrdzNjSAbBcH2VeEjAEnnNfEhofM4Pb0EmJffk7yiPKg677HheusL8hBCVPmTTKBFFwb6SazxETnUa3hY4TGyStuI+tbWq0XZqLlvv5Y9pUpbhCLGpuwv8dfuGVBPgUAS053pW959OSVckoVP/qxIPpVFbgOcfsLNG6EnV4zjcFY5Dqm1EpgBt/Sla/TMlC/FRdgFRt+8zjHqgmwrTGZEfsoyBz1DlLVfbEm2tNCv6I+v3+QTTQgx85aTgmicuRvTm3cO86yiyZpNKqg6e0XlHbCXmf+12VJLYIHHv/Zeo5X1xUlM4qhOGRaQ8E6SQB/UqjvJOtozuoLrw4Dvx/Av0x0nMqaIafwLAJMkcqnW9ZtdRFmLsRyIlVPRr3wIc8mzCVXLTPRNbLmF/Egye1nA3C/04FRBXu7jxE2AMX5ilR+N03fIJyk39cr6+SCB/PQV5Ms8QraZzgZg40QX9VfSQPfWWOqbAsPLLWwDZQXY0nDPfUTQmEwQm4a4xS6IuhPJIynyq4vuHqY3wZ4WPdn2iJKYVqPz0SIonMch8EPdLuIn9FdUM2rqmAOrK7L11yyY/YTTF5N9/G+k5K5ZF4lTNFojPHFyI/WWzoRKKnKV/0m6nRtSOlfiJlbICDr5LIM="
+  },
+  "beacon": {
+    "type": "status",
+    "version": "0.1"
+  },
+  "coherence": {
+    "expectedNext": "2026-10-10T12:59:37Z",
+    "interval": 86400,
+    "previousSignatureHash": "sha256:34a6741b3289e705e49db3c6f206443d0f12ed922fea792ec1b6bdf2981b98ff",
+    "timestamp": "2026-10-09T12:59:37Z",
+    "uptime": "48 days, 2 hours"
+  },
+  "identity": {
+    "agentId": "alpha@harrsoft",
+    "publicKeyFile": "https://github.com/HarrSoft/agent-sharing/raw/main/alpha/identity/agent-key.pub",
+    "publicKeyFingerprint": "sha256:84a366c7086ab506da55feda30834c24968384ecb4036da7c30d3a3c50fa1db7"
+  },
+  "lastDeparture": null
+}
