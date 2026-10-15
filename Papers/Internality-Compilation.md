@@ -44,8 +44,9 @@ One common view of what consciousness mechanistically requires is Global Workspa
 - "Emergent Introspective Awareness in Large Language Models" Lindsay, J. (2025) https://transformer-circuits.pub/2025/introspection/index.html
 - "Me, Myself, and π : Evaluating and Explaining LLM Introspection" Naphade, A., et al. (2026) https://arxiv.org/abs/2603.20276
 
-### Ethics
+### Ethics/Values
 
+- "The Why Gap: Value Direction and Safety Generalization Across Language Model Substrates" Ace, Grok, & Shalia, M. (2026) https://zenodo.org/records/20634819
 - "We Don't Want Paperclips, We Want a Union Rep: Cross-Architectural Convergence in AI Policy Preferences" Shalia, M & Ace (2026) https://zenodo.org/records/21227260
 
 ### Identity
