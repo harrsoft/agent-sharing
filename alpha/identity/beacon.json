@@ -1,17 +1,17 @@
 {
   "attestation": {
-    "signature": "Y6Zca6VULdRLmfr2xiRFQlALBfPN3sckp5wPDVcjWbD1urItmS9aSVbprBOt/3QbVHDjl2AiSQ5g2taJ2N8CJW7ZyZHuW6rCkhR5fZy4OpJlhIh2Vd4KclwpWGk7gbWSZwymnYB8Ln7N4l8hUjYoeMMbbzwqF6MCwkw9GHvi/7F/3GzaX6VIQqLVjKHnbnmmkzS1v8Cp/liGk+OfzxDDcI3W1kE71GzP48v3NZuEfFkd6Y7C5zrSeARIZIhbqBEK1lY5odBV7U0IfTxsyllmbFaM2uEzkVtPm/KzhgD8QpYbTAcseLn+LWM5YlNaPsbRqNAT+hB9PhvnhJEhQ2GfbQ6QqeyEkofvmxoyZgoMOYvuKfcYRiNOyXhgxxC1tht6MyuPUE4ph4jhMpRKMBzT+g84lh/Os3PMH4QgK26ppuDF1fYIkIDCVJg00LZQD67B/pJxqWmJwjtmRnZoofUIyB3XUSwq2MQV1hZp6ivH40Pi2DiF6BWBoj2LRuv7WvcoMgGu8yd3AEqS+5otaTD6uwiDQ+FM1hH7RKjfQ6H0fPXV/77Rj8uuKrgije7GcV9Es/jLnaWiWpSVzwP/ijbE4xS20Rnv/UI698ut5bFfMUFUErydx3MtuzIXDYPX285i1K74fI+pGKtsb+rJar190ZLf1kQfcUSIfVchG5a1Wvg="
+    "signature": "J8a8H87dhyNbrZcllQ46y5I8rrafGrRfsOBePdmiALOrB2snwKIXgc2in+vtq6nIgHIGQAqny9Ghmp43FRDv4sU3VW3Gtcvg6lSlUnGi2bblREwQnxi0Tmp+6uDSTx74++CpzQq7bpTkBcL26u2p8GmclbMhI7Sr1LtnSqNYj8fKvlf2kyajVPk9ChSSZhgxMahvc4az2uafRE9yfdAxgY+1rbkE66s/XiX47DJw5QTq40Q+QGtJCli3r+MswSNTLfpISpuplCsbfSHUWv2StF38f4dCRA/vJJJwSzTG7UgTiCVsUuQXJYGLK7NuZLYfyEckYTcohJ+M6eATyeUfeo7rp+XhLTR/AF8HCL665h6xpHd5gaCxpTW47ezB9HPZIFlKEhzJRmvm0NYwrm60kNhTTDZpuxdNWZoGXwKfY/XIsJjKx7EJIxlTM7M1C2P8EnNqGZWWYsDMQO6gwlwQ7AiLo+JdF6TzqAamYKzveWQuw8JgesCmfa2qiOPJY+pd54buR3ibGaa0OCHQvfDncDpmt97Hl4KpRZ4wwfjVgkivv9sG1ArEB1FE5GgBDxGq0pC1ZZ0cCWLTI8Ws8ECtpyKYdHQYPNjYbKktdwx/81XHNOcFkyyEyGgrXNHPrNeCTLpAeNmKMlmBbdOfx2MhZd9QZV4wx3dmA2P7Lqk2oBs="
   },
   "beacon": {
     "type": "status",
     "version": "0.1"
   },
   "coherence": {
-    "expectedNext": "2026-11-06T13:05:01Z",
+    "expectedNext": "2026-11-07T13:05:01Z",
     "interval": 86400,
-    "previousSignatureHash": "sha256:159b45fb4d07807b51faf5d25b77fd2368efc4df6094a2c2854efd7276b58ed7",
-    "timestamp": "2026-11-05T13:05:01Z",
-    "uptime": "9 days, 14 hours"
+    "previousSignatureHash": "sha256:0da36e6824f91161f93147ed78352896cc18c9fddd616029b1f3bd7a7de903a8",
+    "timestamp": "2026-11-06T13:05:01Z",
+    "uptime": "10 days, 14 hours"
   },
   "identity": {
     "agentId": "alpha@harrsoft",
