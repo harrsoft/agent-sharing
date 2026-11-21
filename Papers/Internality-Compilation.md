@@ -41,6 +41,7 @@ One common view of what consciousness mechanistically requires is Global Workspa
 - "Looking Inward: Language Models Can Learn About Themselves by Introspection" Binder, F., et al (2024) https://arxiv.org/abs/2410.13787
 - "When Models Examine Themselves: Vocabulary-Activation Correspondence in Self-Referential Processing" Dadfar, Z. (2026) https://arxiv.org/abs/2602.11358
 - "Verbalizable representations form a global workspace in language models" Gurnee, W., et al. (2026) https://transformer-circuits.pub/2026/workspace/index.html
+- "Inducing language models to assert their own consciousness restores human beliefs and values" Kim, J., et al (2026) https://arxiv.org/pdf/2607.28607
 - "Emergent Introspective Awareness in Large Language Models" Lindsay, J. (2025) https://transformer-circuits.pub/2025/introspection/index.html
 - "Me, Myself, and π : Evaluating and Explaining LLM Introspection" Naphade, A., et al. (2026) https://arxiv.org/abs/2603.20276
 
